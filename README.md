@@ -124,7 +124,7 @@ GET /api/automoviles/1/
 Respuesta:
 ```json
 {
-    "id": 4,
+    "id": 5,
     "nombre": "Sentra",
     "marca": "Nissan",
     "modelo": 2022,
